@@ -1,5 +1,18 @@
 ﻿using System;
 
+/******************************************************************************
+* Filename    = Program.cs
+*
+* Author      = Mohammad Adnan
+*
+* Product     = SoftwareDesignPatterns
+* 
+* Project     = IteratorDesignPattern
+*
+* Description = Demonstrates the use of the Iterator design pattern. Initializes a collection of Employee objects, creates an iterator for the collection, and iterates through the collection,
+* printing the details of each Employee.
+*****************************************************************************/
+
 namespace IteratorDesignPattern
 {
     class Program
